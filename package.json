@@ -13,7 +13,7 @@
     "barueri",
     "3DS"
   ],
-  "author": "Gabriel Malheiro",
+  "author": "Mateus",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
